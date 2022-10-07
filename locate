@@ -63,10 +63,10 @@ local library = {
     open = false;
     opening = false;
     hasInit = false;
-    cheatname = startupArgs.cheatname or 'iniura';
+    cheatname = startupArgs.cheatname or 'Alchemest';
     gamename = startupArgs.gamename or 'Dahood';
     fileext = startupArgs.fileext or '.txt';
-    domain = startupArgs.domain or '.rip';
+    domain = startupArgs.domain or '.ai';
 }
 
 
